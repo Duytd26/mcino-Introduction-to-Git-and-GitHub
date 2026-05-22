@@ -5,7 +5,7 @@ A simple web application to calculate simple interest based on the principal amo
 ## Formula
 
 The mathematical formula to calculate simple interest is:
-$$I = P \times r \times t$$
+$$I = P \times r \times t$$.
 
 Where:
 * **$I$** (Interest): Total interest amount
